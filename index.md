@@ -5,7 +5,7 @@ This is the demo page of the experiments in [Noise Adaptive Speech Enhancement u
 In the paper we trained a set of models to adapt to the BabyCry noise, here we also show another set of models that are adapted to the cafeteria noise.
 
 From left to right are: 
-1. Noisy 2. BLSTM-L(Baseline) 3. BLSTM-60 4. BLSTM-220 5. BLSTM-U(Upperbound)
+1.***Noisy*** 2.***BLSTM-L(Baseline)*** 3.***BLSTM-60*** 4.***BLSTM-220*** 5.***BLSTM-U(Upperbound)***
 
 
 ## Cafeteria noise
