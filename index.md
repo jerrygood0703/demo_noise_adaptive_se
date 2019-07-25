@@ -9,6 +9,8 @@ In the paper we trained a set of models to adapt to the BabyCry noise, here we a
 
 <audio id="audio" controls="" preload="none">
 	<source type="audio/wav" src="wavs/cafe/noisy/FDHC0_SI929.wav"> 
+</audio>
+<audio id="audio" controls="" preload="none">
 	<source type="audio/wav" src="wavs/cafe/base/FDHC0_SI929.wav">
 </audio>
 
