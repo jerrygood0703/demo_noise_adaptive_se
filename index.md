@@ -22,5 +22,5 @@ In the paper we trained a set of models to adapt to the BabyCry noise, here we a
 	<source src="wavs/cafe/upper/FDHC0_SI929.wav" type="audio/wav" />
 </audio>
 
-Noisy &nbsp &nbsp  &nbsp  &nbsp  &nbsp BLSTM-L(Baseline)      BLSTM-60      BLSTM-220      BLSTM-U(Upperbound)
+Noisy &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp; BLSTM-L(Baseline)      BLSTM-60      BLSTM-220      BLSTM-U(Upperbound)
 
