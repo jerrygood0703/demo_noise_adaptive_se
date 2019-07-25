@@ -4,9 +4,11 @@ This is the demo page of the experiments in [Noise Adaptive Speech Enhancement u
 
 In the paper we trained a set of models to adapt to the BabyCry noise, here we also show another set of models that are adapted to the cafeteria noise.
 
-## Cafeteria noise
+From left to right are: 
+1. Noisy 2. BLSTM-L(Baseline) 3. BLSTM-60 4. BLSTM-220 5. BLSTM-U(Upperbound)
 
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Noisy &nbsp; &nbsp; &nbsp; &nbsp; BLSTM-L(Baseline) &nbsp; &nbsp; &nbsp; &nbsp; BLSTM-60 &nbsp; &nbsp; &nbsp; &nbsp; BLSTM-220 &nbsp; &nbsp; &nbsp; &nbsp; BLSTM-U(Upperbound)
+
+## Cafeteria noise
 
 ###### FDHC0_SI929
 <audio style="width:150px" controls="controls">
@@ -25,5 +27,19 @@ In the paper we trained a set of models to adapt to the BabyCry noise, here we a
 	<source src="wavs/cafe/upper/FDHC0_SI929.wav" type="audio/wav" />
 </audio>
 
-
-
+###### MBPM0_SI1584
+<audio style="width:150px" controls="controls">
+	<source src="wavs/cafe/noisy/MBPM0_SI1584.wav" type="audio/wav" />
+</audio>
+<audio style="width:150px" controls="controls">
+	<source src="wavs/cafe/base/MBPM0_SI1584.wav" type="audio/wav" />
+</audio>
+<audio style="width:150px" controls="controls">
+	<source src="wavs/cafe/60/MBPM0_SI1584.wav" type="audio/wav" />
+</audio>
+<audio style="width:150px" controls="controls">
+	<source src="wavs/cafe/220/MBPM0_SI1584.wav" type="audio/wav" />
+</audio>
+<audio style="width:150px" controls="controls">
+	<source src="wavs/cafe/upper/MBPM0_SI1584.wav" type="audio/wav" />
+</audio>
