@@ -6,19 +6,19 @@ In the paper we trained a set of models to adapt to the BabyCry noise, here we a
 
 ## Cafeteria noise
 
-<audio style="width:200px" controls="controls">
+<audio style="width:100px" controls="controls">
 	<source src="wavs/cafe/noisy/FDHC0_SI929.wav" type="audio/wav" />
 </audio>
-<audio style="width:200px" controls="controls">
+<audio style="width:100px" controls="controls">
 	<source src="wavs/cafe/base/FDHC0_SI929.wav" type="audio/wav" />
 </audio>
-<audio style="width:200px" controls="controls">
+<audio style="width:100px" controls="controls">
 	<source src="wavs/cafe/60/FDHC0_SI929.wav" type="audio/wav" />
 </audio>
-<audio style="width:200px" controls="controls">
+<audio style="width:100px" controls="controls">
 	<source src="wavs/cafe/220/FDHC0_SI929.wav" type="audio/wav" />
 </audio>
-<audio style="width:200px" controls="controls">
+<audio style="width:100px" controls="controls">
 	<source src="wavs/cafe/upper/FDHC0_SI929.wav" type="audio/wav" />
 </audio>
 
