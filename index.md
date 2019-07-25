@@ -6,7 +6,43 @@ In the paper we trained a set of models to adapt to the baby cry noise, here we 
 
 From left to right are: 
 
-***Noisy***, ***BLSTM-L(Baseline)***, ***BLSTM-60***, ***BLSTM-220***, ***BLSTM-U(Upperbound)***, respectively
+***Noisy***, ***BLSTM-L(Baseline)***, ***BLSTM-60***, ***BLSTM-220***, ***BLSTM-U(Upperbound)***
+
+## Baby cry noise
+
+###### FELC0_SX36
+<audio style="width:150px" controls="controls">
+	<source src="wavs/baby/noisy/FELC0_SX36.wav" type="audio/wav" />
+</audio>
+<audio style="width:150px" controls="controls">
+	<source src="wavs/baby/base/FELC0_SX36.wav" type="audio/wav" />
+</audio>
+<audio style="width:150px" controls="controls">
+	<source src="wavs/baby/60/FELC0_SX36.wav" type="audio/wav" />
+</audio>
+<audio style="width:150px" controls="controls">
+	<source src="wavs/baby/220/FELC0_SX36.wav" type="audio/wav" />
+</audio>
+<audio style="width:150px" controls="controls">
+	<source src="wavs/baby/upper/FELC0_SX36.wav" type="audio/wav" />
+</audio>
+
+###### MCMJ0_SI464
+<audio style="width:150px" controls="controls">
+	<source src="wavs/baby/noisy/MCMJ0_SI464.wav" type="audio/wav" />
+</audio>
+<audio style="width:150px" controls="controls">
+	<source src="wavs/baby/base/MCMJ0_SI464.wav" type="audio/wav" />
+</audio>
+<audio style="width:150px" controls="controls">
+	<source src="wavs/baby/60/MCMJ0_SI464.wav" type="audio/wav" />
+</audio>
+<audio style="width:150px" controls="controls">
+	<source src="wavs/baby/220/MCMJ0_SI464.wav" type="audio/wav" />
+</audio>
+<audio style="width:150px" controls="controls">
+	<source src="wavs/baby/upper/MCMJ0_SI464.wav" type="audio/wav" />
+</audio>
 
 
 ## Cafeteria noise
