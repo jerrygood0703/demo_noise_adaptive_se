@@ -1,6 +1,6 @@
 # Introduction
 
-This is the demo page of the expiriments in [Noise Adaptive Speech Enhancement using Domain Adversarial Training](https://arxiv.org/abs/1807.07501).
+This is the demo page of the experiments in [Noise Adaptive Speech Enhancement using Domain Adversarial Training](https://arxiv.org/abs/1807.07501).
 
 In the paper we trained a set of models to adapt to the BabyCry noise, here we also show another set of models that are adapted to the cafeteria noise.
 
@@ -22,6 +22,5 @@ In the paper we trained a set of models to adapt to the BabyCry noise, here we a
 	<source src="wavs/cafe/upper/FDHC0_SI929.wav" type="audio/wav" />
 </audio>
 
-<pre>
-Noisy      BLSTM-L(Baseline)      BLSTM-60      BLSTM-220      BLSTM-U(Upperbound)
-</pre>
+Noisy &nbsp &nbsp  &nbsp  &nbsp  &nbsp BLSTM-L(Baseline)      BLSTM-60      BLSTM-220      BLSTM-U(Upperbound)
+
