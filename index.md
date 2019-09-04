@@ -1,6 +1,6 @@
 # Introduction
 
-This is the demo page of the experiments in our [paper](https://arxiv.org/abs/1807.07501).
+This is the demo page of our [paper](https://arxiv.org/abs/1807.07501), and the code is [here](https://github.com/jerrygood0703/noise_adaptive_DAT_SE).
 
 In the paper we trained a set of models to adapt to the baby cry noise, here we also show another set of models that are adapted to the cafeteria noise.
 
